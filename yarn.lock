@@ -9662,10 +9662,10 @@ store2@^2.12.0:
   resolved "https://registry.yarnpkg.com/store2/-/store2-2.14.2.tgz#56138d200f9fe5f582ad63bc2704dbc0e4a45068"
   integrity sha512-siT1RiqlfQnGqgT/YzXVUNsom9S0H1OX+dpdGN1xkyYATo4I6sep5NmsRD/40s3IIOvlCq6akxkqG82urIZW1w==
 
-storybook-xstate-addon@^2.3.1:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/storybook-xstate-addon/-/storybook-xstate-addon-2.3.2.tgz#6ccf6b3d8c85fa3b90e7f6f5bca77d2e8cb2f224"
-  integrity sha512-ni/OO+KkRK04bRKKYinJ5ozXsFARVx5OC+PWumavGJtWIaHuyUwZyHPrxPfIEE4wc8IpPp/pIZ72uSFvy9K/1Q==
+storybook-xstate-addon@^2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/storybook-xstate-addon/-/storybook-xstate-addon-2.3.6.tgz#73b0cdadce04b9646c3df2e4211515b328ed8642"
+  integrity sha512-ZJU9S1MqKrj51RSE5rs1JHQaclHVOPvC24uJe3IN6lGL7g/HHSAxrYxiOsA0uqvuRZgjKDzWuzBRFK+f0uEXvw==
 
 stream-browserify@^2.0.1:
   version "2.0.2"
